@@ -53,4 +53,4 @@ This is a screenshot of the page as it would be seen on a browser on a computer:
 This is a screenshot of the page as it would be seen on a browser on a phone:
 <br>
 
-![Mobile_Device.png](./Images/Mobile_Device.png)
+![Mobile_Device1.png](./Images/Mobile_Device1.png)
