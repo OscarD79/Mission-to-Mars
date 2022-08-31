@@ -46,11 +46,11 @@ Lastly there is the index.html file created by Flask:
 <br> 
 This is a screenshot of the page as it would be seen on a browser on a computer:
 <br> 
-
+<br> 
 ![MissionToMars.png](./Images/MissionToMars.png)
 
 <br>
 This is a screenshot of the page as it would be seen on a browser on a phone:
 <br>
-
+<br> 
 ![Mobile_Device1.png](./Images/Mobile_Device1.png)
